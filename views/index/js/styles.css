@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/reserve-na-biblioteca-com-livro-aberto_1150-5920.jpg?w=900&t=st=1705663233~exp=1705663833~hmac=7ec9d16c33054a85baef5e32e78fc1904b085c024cec8748eaf3fdd9815bd8bd);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}   
+
+h1{
+    font-family:  "Times New Roman", Times, serif;
+    font-size: xx-large;
+}
+.menu{
+    padding: 100px;  
+    color: black;
+}
+.btn{
+    cursor: pointer;
+            border: 1px solid #a77813c5;
+            background-color: transparent;
+            height: 100px;
+            width: 300px;
+            color: #030200;
+            font-size: 2.15em;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+            font-style: oblique;
+}
+a{
+    color: black;
+}
+a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  a:active {
+    color: black;
+  }
