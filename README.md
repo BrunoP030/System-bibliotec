@@ -2,7 +2,7 @@
 
 Aqui estão alocados todos os arquivos e scripts necessários para a formação de uma estrutura MVC!
 
-<img src="public/images/Screenshot_1.png">
+<img src="\public\images\home_biblioteca.png">
 
 ## Método de Uso
 

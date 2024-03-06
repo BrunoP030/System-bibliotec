@@ -31,11 +31,11 @@
 
 <body>
     <!--========== HEADER ==========-->
-    <header class="header" style="background: #005BAA;">
+    <header class="header" style="background: #0a3576;">
         <div class="header__container">
-            <a href="#" class="header__logo">Estrutura MVC</a>
+            <a href="#" class="header__logo" style="color: #FFE4B5;">Estrutura MVC</a>
 
-            <a href="#" class="header__logo">Alisson Juan Feitoza da Silva</a>
+            <a href="#" class="header__logo" style="color: #FFE4B5;" >Bruno Seisdedos Pires dos Santos</a>
 
             <div class="header__toggle">
                 <i class='bx bx-menu' id="header-toggle"></i>
